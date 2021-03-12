@@ -7,7 +7,6 @@ import { MenuComponent } from './logo/menu/menu.component';
 import { AboutComponent } from './nav-bar/about/about.component';
 import { HomeComponent } from './nav-bar/home/home.component';
 import { LoginComponent } from './nav-bar/login/login.component';
-import { PageNotFoundComponent } from './nav-bar/page-not-found/page-not-found.component';
 import { ProductsComponent } from './nav-bar/products/products.component';
 import { SignupComponent } from './nav-bar/signup/signup.component';
 
